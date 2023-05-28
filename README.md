@@ -1,5 +1,5 @@
 ### About Me 👋
-My name is Kai. My pronouns are she/her. I'm a software engineer based in Toronto.
+Name's Kai. Pronouns are she/her.
 
 ### Tech Stack 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,gcp,mysql,firebase,docker)](https://skillicons.dev)
