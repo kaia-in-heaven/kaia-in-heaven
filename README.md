@@ -1,5 +1,5 @@
 ### About Me 👋
-Name's Kai. Pronouns are she/her. I'm a software engineer based in Toronto.
+My name is Kai. My pronouns are she/her. I'm a software engineer based in Toronto.
 
 ### Tech Stack 👩‍💻
 * JavaScript
