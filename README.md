@@ -1,9 +1,7 @@
-### About Me 👋
-
 ### Tech Stack 👩‍💻
 * JavaScript
 * React
-* Node.JS
+* Node.js
 * HTML
 * CSS
 * Handlebars
