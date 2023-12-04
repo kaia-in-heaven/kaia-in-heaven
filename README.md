@@ -1,4 +1,4 @@
-## Kaia
+## 👋
 
 > Software, like all technologies, is inherently political.
 > Code inevitably reflects the choices, biases and desires of its creators.
