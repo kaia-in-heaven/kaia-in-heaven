@@ -6,7 +6,7 @@
 from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1704)
 
 ### Tech Stack 👩‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,gcp,mysql,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,gcp,mysql,docker)](https://skillicons.dev)
 
 ### Interests 💡
 * Frontend
