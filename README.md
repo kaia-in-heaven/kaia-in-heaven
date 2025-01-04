@@ -8,7 +8,7 @@ from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1
 ### Tech Stack 👩‍💻
 * JavaScript
 * TypeScript
-* Node.JS
+* Node.js
 * Express
 * React
 * Styled Components
