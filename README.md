@@ -22,6 +22,6 @@ from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1
 
 
 ### Interests 💡
-* Frontend
-* Backend
-* Creative projects
+* Frontend 👩‍🎨
+* Backend 💻
+* Creative Projects 🌼
