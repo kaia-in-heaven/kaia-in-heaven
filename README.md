@@ -6,7 +6,20 @@
 from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1704)
 
 ### Tech Stack 👩‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,gcp,mysql,docker)](https://skillicons.dev)
+* JavaScript
+* TypeScript
+* Node.JS
+* Express
+* React
+* Styled Components
+* HTML
+* CSS
+* Handlebars
+* SQL
+* Docker
+* Google Cloud Platform
+* Zendesk Apps Framework
+
 
 ### Interests 💡
 * Frontend
