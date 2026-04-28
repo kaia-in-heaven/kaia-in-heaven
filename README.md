@@ -10,8 +10,11 @@ from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1
 * TypeScript
 * Node.js
 * Express
+* Hono
+* Fastify
 * React
 * Styled Components
+* Vite
 * HTML
 * CSS
 * Handlebars
@@ -19,6 +22,8 @@ from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1
 * SQL
 * Docker
 * Google Cloud Platform
+* Cloudflare Workers
+* AWS
 * Zendesk Apps Framework
 
 
