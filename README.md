@@ -19,6 +19,7 @@ from Jeremy Keith, (2010) - [The Design of HTML5](https://adactio.com/articles/1
 * CSS
 * Handlebars
 * Golang
+* Python
 * SQL
 * Docker
 * Google Cloud Platform
